@@ -17,7 +17,7 @@ Aquí encontrarás:
 Está orientada a que adquieras una base sólida en la lógica de programación antes de avanzar a temas más complejos.  
 
 🔗 Curso recomendado por el profesor (**MaxiPrograma**):  
-[Curso Básico de Programación con C++ - MaxiPrograma](https://www.youtube.com/playlist?list=PL8gxzfBmzgexDm2o0BmyS6ynmW5O7xJzF)
+[[Curso Básico de Programación con C++ - MaxiPrograma](https://www.youtube.com/playlist?list=PL8gxzfBmzgexDm2o0BmyS6ynmW5O7xJzF)](https://youtube.com/playlist?list=PLQRFzsIQFmxrqL5ViA0k3rsR5H0oNKYxE&si=f3sh_pBEUsEYsbcA)
 
 ---
 ##  Recursos rápidos
