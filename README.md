@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/UTN_logo.jpg](https://extension.frgp.utn.edu.ar/_next/image?url=https%3A%2F%2Fwww.frgp.utn.edu.ar%2Fpublic%2Fassets%2Ffotos_cursos%2Fdefault.jpg&w=828&q=75)" alt="Logo UTN" width="120" />
-</p>
-
 <h1 align="center">¡Bienvenido/a!</h1>
 <p align="center">
   👨‍🏫 Repositorio de apoyo para estudiantes de <strong>Programación I - 2025</strong> en la <strong>UTN</strong>.
