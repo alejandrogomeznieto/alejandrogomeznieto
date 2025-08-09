@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/UTN_logo.jpg" alt="Logo UTN" width="120" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/UTN_logo.jpg](https://extension.frgp.utn.edu.ar/_next/image?url=https%3A%2F%2Fwww.frgp.utn.edu.ar%2Fpublic%2Fassets%2Ffotos_cursos%2Fdefault.jpg&w=828&q=75)" alt="Logo UTN" width="120" />
 </p>
 
 <h1 align="center">¡Bienvenido/a!</h1>
@@ -12,9 +12,8 @@
 ##  Este perfil
 Aquí encontrarás:
 - Material, ejemplos y ejercicios subidos según avanzan las clases.
-- Guías paso a paso para instalar y configurar entornos de desarrollo (Code::Blocks y VSCode).
-- Próximamente: fragmentos de código, tips y recursos útiles para tus proyectos.
-- 
+- Presentaciones PDF de los temas abordados
+  
 ---
 
 ## 📘 Sobre la materia
